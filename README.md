@@ -20,9 +20,13 @@ Run it with:
 
 # Evaluation
 
+I have worked in C# before so it was not a proper evaluation; I used to develop using `mono` under linux. I have to say that installing dotnet on Linux is now super simple.
+
 The good:
 
   * Modern language with all nice things like OO, functional, etc.
+  * Proper documentation.
+  * Loads of stuff to find when you need help.
 
 The bad:
 
